@@ -1,4 +1,5 @@
-# programming-practice
+# Programming Pracitce
 This repo has programming challenges, problem solving and exams solutions in UOT
 
-هذا المستودع يحتوي على تحديات برمجية وحلول لبعض المشاكل وحلول للإمتحانات طلبة كلية تقنية المعلومات بجامعة طرابلس
+هذا المستودع يحتوي على تحديات وحلول لبعض المشاكل وأسئلة امتحانات بلغة السي
+كلية تقنية المعلومات - جامعة طرابلس
